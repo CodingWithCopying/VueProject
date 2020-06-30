@@ -1,21 +1,10 @@
 <template>
   <div class="login-container">
-    <div class="xylogo">
-      <img alt="xiyou logo" src="@/assets/logo/xiyoulogo.jpeg">
-      <p class="xyname">西安邮电大学</p>
-    </div>
     <div class="sxtitle">本科生与导师双选系统</div>
     <div class="notice">
         <h2 class="notice-title">通知信息:</h2>
         <ul class="notice-body">
-          <li>本系统现已升级至本系统现已升级至本系统现已升级至本系统现已升级至本系统现已升级至
-            本系统现已升级至本系统现已升级至本系统现已升级至</li>
-          <li>本系统现已升级至本系统现已升级至本系统现已升级至本系统现已升级至本系统现已升级至
-            本系统现已升级至本系统现已升级至本系统现已升级至</li>
-          <li>本系统现已升级至本系统现已升级至本系统现已升级至本系统现已升级至本系统现已升级至
-            本系统现已升级至本系统现已升级至本系统现已升级至</li>
-          <li>本系统现已升级至本系统现已升级至本系统现已升级至本系统现已升级至本系统现已升级至
-            本系统现已升级至</li>
+          <h1>no more information<h1>
           </ul>
       </div>
     <div class="loginform-container">
